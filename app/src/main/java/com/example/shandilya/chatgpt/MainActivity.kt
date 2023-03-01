@@ -78,7 +78,7 @@ class MainActivity : AppCompatActivity() {
                 val params: MutableMap<String,String> = HashMap()
 
                 params["Content-Type"] = "application/json"
-                params["Authorization"] = "Bearer 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"
+                params["Authorization"] = "Bearer Enter Your Api key"
 
                 return  params
             }
